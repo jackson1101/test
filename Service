@@ -1,0 +1,6 @@
+@Service
+Public void Service()｛
+@Autowired
+Private Mapper mapper
+Public void open()｛mapper.test｝
+｝
