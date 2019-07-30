@@ -1,0 +1,8 @@
+RestControllrt
+RequestMapping(“/1”)
+Public String open()｛
+
+@Autowire
+Private Service service;
+@RequetMapping("/2")
+Public Spring test()｛return service.test｝
